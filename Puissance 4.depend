@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1438257222 source:c:\users\olivier\desktop\puissance 4\code.c
+	"libgraphique.h"
+	<stdio.h>
+
+1353436562 source:c:\users\olivier\desktop\puissance 4\libgraphique.c
+	<stdio.h>
+	<malloc.h>
+	<errno.h>
+	<string.h>
+	<math.h>
+	<unistd.h>
+	<stdarg.h>
+	"libgraphique.h"
+	"libgraphique_fonts.h"
+
+1353433556 c:\users\olivier\desktop\puissance 4\libgraphique.h
+	<GL/freeglut.h>
+
+1321744834 c:\users\olivier\desktop\puissance 4\libgraphique_fonts.h
+
+1431096449 c:\users\olivier\desktop\puissance 4\anim.h
+	<stdio.h>
+	"libgraphique.h"
+
+1353432962 source:c:\users\olivier\desktop\fac\puissance 4\libgraphique.c
+	<stdio.h>
+	<malloc.h>
+	<errno.h>
+	<string.h>
+	<math.h>
+	<unistd.h>
+	<stdarg.h>
+	"libgraphique.h"
+	"libgraphique_fonts.h"
+
+1353429956 c:\users\olivier\desktop\fac\puissance 4\libgraphique.h
+	<GL/freeglut.h>
+
+1321741234 c:\users\olivier\desktop\fac\puissance 4\libgraphique_fonts.h
+
+1456266465 source:c:\users\olivier\desktop\fac\puissance 4\code.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1481478065 source:c:\users\olivier\desktop\fac\s4 tout\puissance 4\code.c
+	<stdlib.h>
+	<stdio.h>
+
+1353432962 source:c:\users\olivier\desktop\fac\s4 tout\puissance 4\libgraphique.c
+	<stdio.h>
+	<malloc.h>
+	<errno.h>
+	<string.h>
+	<math.h>
+	<unistd.h>
+	<stdarg.h>
+	"libgraphique.h"
+	"libgraphique_fonts.h"
+
+1353429956 c:\users\olivier\desktop\fac\s4 tout\puissance 4\libgraphique.h
+	<GL/freeglut.h>
+
+1321741234 c:\users\olivier\desktop\fac\s4 tout\puissance 4\libgraphique_fonts.h
+
